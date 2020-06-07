@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/etha-site/static/css/main.f0a34eb8.chunk.css",
+    "main.js": "/etha-site/static/js/main.5b8e2c9c.chunk.js",
+    "main.js.map": "/etha-site/static/js/main.5b8e2c9c.chunk.js.map",
+    "runtime-main.js": "/etha-site/static/js/runtime-main.4994e7de.js",
+    "runtime-main.js.map": "/etha-site/static/js/runtime-main.4994e7de.js.map",
+    "static/js/2.9a3a4515.chunk.js": "/etha-site/static/js/2.9a3a4515.chunk.js",
+    "static/js/2.9a3a4515.chunk.js.map": "/etha-site/static/js/2.9a3a4515.chunk.js.map",
+    "index.html": "/etha-site/index.html",
+    "precache-manifest.dbcf7a8268b69fb07e49434f2a0f8163.js": "/etha-site/precache-manifest.dbcf7a8268b69fb07e49434f2a0f8163.js",
+    "service-worker.js": "/etha-site/service-worker.js",
+    "static/css/main.f0a34eb8.chunk.css.map": "/etha-site/static/css/main.f0a34eb8.chunk.css.map",
+    "static/js/2.9a3a4515.chunk.js.LICENSE.txt": "/etha-site/static/js/2.9a3a4515.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/etha-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4994e7de.js",
+    "static/js/2.9a3a4515.chunk.js",
+    "static/css/main.f0a34eb8.chunk.css",
+    "static/js/main.5b8e2c9c.chunk.js"
+  ]
+}
